@@ -1,4 +1,7 @@
-.test{
+.header{
     background-color: #61dafb;
     height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
