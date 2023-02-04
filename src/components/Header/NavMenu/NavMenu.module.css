@@ -1,4 +1,12 @@
 .nav{
     display: flex;
-    gap: 10px;
+    width: 300px;
+    text-decoration: none;
+    justify-content: space-between;
+
+}
+.nav a{
+    text-decoration: none;
+    color: inherit;
+    letter-spacing: 1px;
 }
